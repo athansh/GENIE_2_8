@@ -36,7 +36,7 @@ int rootify(void)
   // define output tree
   int     Z        = 0;   // atomic mass number
   int     A        = 0;   // target mass number
-  int     hadron   = 0;   // hadon PDG code
+  int     hadron   = 0;   // hadron PDG code
   double  Q2       = 0.0; // momentum transfer, GeV^2
   double  R        = 0.0; // multiplicity ratio
   double  dRp      = 0.0; // uncertainty on multiplicity ratio (+)
